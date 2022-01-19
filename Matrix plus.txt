@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Project6, Configuration: Debug Win32 ------
+1>Project6.vcxproj -> C:\Users\Андрей\source\repos\ForArduino\Debug\Project6.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
